@@ -1,0 +1,17 @@
+# Compiled files
+bin/
+out/
+*.class
+
+# Generated receipts (contain voter data)
+receipts/
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# MySQL driver (download it yourself, see README)
+lib/*.jar
